@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_dark">#1B2A4A</color>
+    <color name="navy_mid">#24365E</color>
+    <color name="navy_light">#2E4C8A</color>
+    <color name="blue_accent">#3D8AFF</color>
+    <color name="orange_accent">#FF8A3D</color>
+    <color name="green_accent">#34B469</color>
+    <color name="pink_accent">#E5484D</color>
+    <color name="text_dark">#1B2A4A</color>
+    <color name="text_muted">#6B7A99</color>
+    <color name="hint_muted">#A6B0C3</color>
+    <color name="bg_field">#F0F3FA</color>
+</resources>

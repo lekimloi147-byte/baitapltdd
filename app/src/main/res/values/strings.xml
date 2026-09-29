@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string-array name="class_array">
+        <item>Chọn lớp</item>
+        <item>24SK1</item>
+        <item>24SK2</item>
+        <item>24SK3</item>
+        <item>24CNTT1</item>
+        <item>24CNTT2</item>
+    </string-array>
+</resources>
